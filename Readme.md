@@ -1,11 +1,14 @@
-[![Open in Gitpod](https://img.shields.io/badge/Open_in-Gitpod-white?logo=gitpod)]( https://gitpod.io/new/#https://github.com/Vara-Lab/Smart-Contract-Template.git)
+[![Open in Gitpod](https://img.shields.io/badge/Open_in-Gitpod-white?logo=gitpod)]( https://gitpod.io/new/#https://github.com/Vara-Lab/Smart-Contract-Builder-Template.git)
+
+
+# Smart Contract Builder Template
 
 # Deploy the Contract on the IDEA Platform and Interact with Your Contract
 
 ## Step 1: Open Contract on Gitpod
 
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/Vara-Lab/Smart-Contract-Template.git" target="_blank">
+  <a href="https://gitpod.io/#https://github.com/Vara-Lab/Smart-Contract-Builder-Template.git" target="_blank">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
   </a>
 </p>
